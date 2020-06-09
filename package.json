@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/DGEs2018/backend-app-structure/issues"
   },
-  "homepage": "https://github.com/DGEs2018/backend-app-structure#readme"
+  "homepage": "https://github.com/DGEs2018/backend-app-structure#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
